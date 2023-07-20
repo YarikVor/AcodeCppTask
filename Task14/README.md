@@ -7,6 +7,8 @@
 
 Приклад виконання програми:
 
-`Enter the numerator: 7  
+```
+Enter the numerator: 7  
 Enter the denominator: 0  
-Your fraction has an invalid denominator.`
+Your fraction has an invalid denominator.
+```
