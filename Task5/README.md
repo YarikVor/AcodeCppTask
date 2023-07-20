@@ -114,7 +114,8 @@ return  0;
 
 Приклад результату виконання програми:
 
-`Let's play a game. I'm thinking of a number. You have 7 tries to guess what it is.  
+```
+Let's play a game. I'm thinking of a number. You have 7 tries to guess what it is.  
 Guess #1: 64  
 Your guess is too high.  
 Guess #2: 32  
@@ -143,7 +144,8 @@ Sorry, you lose. The correct number was 49.
 Would you like to play again (y/n)? q  
 Would you like to play again (y/n)? f  
 Would you like to play again (y/n)? n  
-Thank you for playing.`
+Thank you for playing.
+```
 
 **_Підказки_:**
 
